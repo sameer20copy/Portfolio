@@ -1,3 +1,4 @@
+//home
 import React from "react";
 import { Link, useNavigate } from "react-router-dom";
 
@@ -37,7 +38,7 @@ export default function Home() {
           </div>
         </div>
         <img
-          src="./img.png"
+          src="/img.png"
           alt="Sameer"
           className="w-48 md:w-80 h-auto object-cover mb-5 md:mb-0"
         />
